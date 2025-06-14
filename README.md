@@ -1,27 +1,16 @@
 # package_name
-
-Description. 
-The package package_name is used to:
-	- 
-	-
+Esse pacote é um projeto 'Forked' de autoria da Professora Karina Kato, para entrega do Desafio 'Criando um Pacote de Processamento de Imagens com Python' para o Bootcamp Suzano - Python Developer, onde estou tendo contado pela primeira vez com essa funcionalidade e aprendendo.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Utilize o 'package manager' [pip](https://pip.pypa.io/en/stable/) para instalar o package_Gabriel.
 
 ```bash
 pip install package_name
 ```
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
-
 ## Author
-My_name
+Aluno Gabriel Prado (Mentora Karina Kato, Bootcamp Suzano DIO)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
